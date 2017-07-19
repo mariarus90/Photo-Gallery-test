@@ -48,8 +48,7 @@ input[type="text"] {
 
 #lightbox .lb-nav a {
   opacity: 1;
-  position: absolute;
-  width: 70%;
+  width: 50%;
 }
 
 .lb-nav a.lb-prev {
